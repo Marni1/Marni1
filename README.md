@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Technologie 🚀 <br>
+<b> TECHNOLOGIE 🚀 <b><br>
 -html <br>
 -css, sass<br>
 -Bootstrap<br>
