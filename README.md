@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About me 🏋️‍♂️
-I am a self-taught front-end developer.  I have completed many courses on web development online.Now I am looking for my first job in IT, constantly improving my skills.
+I am a self-taught front-end developer.  I have completed many courses on web development online.Now I am looking for my first job in IT, constantly improving my skills.<br>
 In addition to my interests in front-end development in my free time I like to play sports (mainly football and fitness).
 
 # Skills ✨ <br>
