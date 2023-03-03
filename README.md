@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 -Express.js<br>
 -GIT<br>
 -NPM<br>
--MySQL<br>
+-MySQL<br><br>
+
+<b>ZAINTERESOWANIA</b ⚽ <br>
+
+
