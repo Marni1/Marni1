@@ -1,4 +1,4 @@
-### Cześć 👋
+### Hello 👋
 
 <!--
 **Marni1/Marni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<b>About me </b>
 
-
-<b> TECHNOLOGIE 🚀 </b><br>
+<b> Skills ✨ </b><br>
 -html <br>
 -css, sass<br>
 -Bootstrap<br>
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 -MySQL<br><br>
 
 
-<b>ZAINTERESOWANIA</b>⚽ <br>
-Sport(głownie pilka nożna oraz fitness) 
+
 
 
 
