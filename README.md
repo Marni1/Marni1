@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Technologie 🚀 
+-html
+-css, sass
+-Bootstrap
+-JavaScript
+-React.js
+-Express.js
+-GIT
+-NPM
+-MySQL 
