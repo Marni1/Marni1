@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-Technologie 🚀 
+Technologie 🚀 <br>
 -html <br>
--css, sass
--Bootstrap
--JavaScript
--React.js
--Express.js
--GIT
--NPM
--MySQL 
+-css, sass<br>
+-Bootstrap<br>
+-JavaScript<br>
+-React.js<br>
+-Express.js<br>
+-GIT<br>
+-NPM<br>
+-MySQL<br>
