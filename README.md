@@ -21,15 +21,15 @@ In addition to my interests in front-end development in my free time I like to p
 Typescript.
 
 # ✨ Skills <br>
-•html <br>
-•css, sass<br>
-•Bootstrap<br>
-•JavaScript<br>
-•React.js<br>
-•Express.js<br>
-•GIT<br>
-•NPM<br>
-•MySQL<br><br>
+• html <br>
+• css, sass<br>
+• Bootstrap<br>
+• JavaScript<br>
+• React.js<br>
+• Express.js<br>
+• GIT<br>
+• NPM<br>
+• MySQL<br><br>
 
 
 
