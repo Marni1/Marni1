@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 -NPM<br>
 -MySQL<br><br>
 
+
 <b>ZAINTERESOWANIA</b>⚽ <br>
+Sport(głownie pilka nożna oraz fitness) 
+
 
 
