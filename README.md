@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 • Express.js<br>
 • GIT<br>
 • NPM<br>
-• MySQL<br><br>
+• MySQL<br>
 ### 🌱 I’m currently learning
 Typescript.<br>
 ### 🖥 Projects 
