@@ -29,8 +29,12 @@ Here are some ideas to get you started:
 • NPM<br>
 • MySQL<br><br>
 ### 🌱 I’m currently learning
-Typescript.
- 
+Typescript.<br>
+### 🖥 Projects 
+#### 🧠SMART BRAIN:
+Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
+the application is written in react with class component.
+https://github.com/Marni1/smart-brain
 
 
 
