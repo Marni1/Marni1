@@ -34,7 +34,12 @@ Typescript.<br>
 #### 🧠SMART BRAIN:
 Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
 the application is written in react with class component.
-https://github.com/Marni1/smart-brain
+https://github.com/Marni1/smart-brain<br>
+
+#### 📋ToDoList:
+Simple toDoList.The application allows you to create tasks that are displayed in the application.Tasks have the function of Editing and marking that they are completed.
+https://github.com/Marni1/todoList
+
 
 
 
