@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 Typescript.<br>
 ### 🖥 Projects 
+
+#### In progress:
+Currently working on a website for a local coffeehouse.
+
 #### 🧠SMART BRAIN:
 Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
 the application is written in react with class component.
