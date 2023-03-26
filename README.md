@@ -37,8 +37,8 @@ the application is written in react with class component.
 https://github.com/Marni1/smart-brain<br>
 
 #### 📋ToDoList:
-Simple toDoList.The application allows you to create tasks that are displayed in the application.Tasks have the function of Editing and marking that they are completed.
-live version: https://marni1.github.io/todoList/
+Simple toDoList.The application allows you to create tasks that are displayed in the application.Tasks have the function of Editing and marking that they are completed.<br>
+live version: https://marni1.github.io/todoList/<br>
 repo:https://github.com/Marni1/todoList
 <br>
 
