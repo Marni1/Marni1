@@ -58,6 +58,8 @@ Preview:https://marni1.github.io/Weather-App/
 #### and many more projects that you can find in my repository!!!!
 https://github.com/Marni1?tab=repositories
 
+Not all projects are responsive !
+
 
 
 
