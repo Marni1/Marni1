@@ -43,7 +43,7 @@ Repo:https://github.com/Marni1/todoList
 <br>
 
 #### 🌴Tropical Paradise
-Sample website for a tour company.
+Sample website for a tour company.<br>
 Preview:https://marni1.github.io/tropicalparadise/?fbclid=IwAR2XTfVMzZP_Ef6NJZDMmGZPIrA79z39Xi7-jRE-T6Lb-oFmZpmMUsA7itk
 
 
