@@ -46,6 +46,10 @@ Repo:https://github.com/Marni1/todoList
 Sample website for a tour company.<br>
 Preview:https://marni1.github.io/tropicalparadise/?fbclid=IwAR2XTfVMzZP_Ef6NJZDMmGZPIrA79z39Xi7-jRE-T6Lb-oFmZpmMUsA7itk
 
+#### ⛅WeatherApp
+Check weather in your city ! App is getting data form weatherApi and showing it to user!<br>
+Preview:https://marni1.github.io/Weather-App/
+
 
 #### and many more projects that you can find in my repository!!!!
 https://github.com/Marni1?tab=repositories
