@@ -38,8 +38,8 @@ https://github.com/Marni1/smart-brain<br>
 
 #### 📋ToDoList:
 Simple toDoList.The application allows you to create tasks that are displayed in the application.Tasks have the function of Editing and marking that they are completed.<br>
-preview: https://marni1.github.io/todoList/<br>
-repo:https://github.com/Marni1/todoList
+Preview: https://marni1.github.io/todoList/<br>
+Repo:https://github.com/Marni1/todoList
 <br>
 
 #### and many more projects that you can find in my repository!!!!
