@@ -38,8 +38,8 @@ Currently working on a website for a local coffeehouse.
 #### 🧠SMART BRAIN:
 Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
 the application is written in react with class component.
-<br>LIVE:https://smartbrain-lj53.onrender.com
-https://github.com/Marni1/smart-brain<br>
+<br>LIVE:https://smartbrain-lj53.onrender.com<br>
+https://github.com/Marni1/smart-brain
 
 #### 📋ToDoList:
 Simple toDoList.The application allows you to create tasks that are displayed in the application.Tasks have the function of Editing and marking that they are completed.<br>
