@@ -36,7 +36,7 @@ Typescript.<br>
 Currently working on a website for a local coffeehouse.
 
 #### 👑CRWN-CLOTHING
-Sample of SPA with react for Cloth Company Shop using firebase as database.<br>
+Sample of SPA with react for Cloth Company Shop using firebase as database.Still in progress<br>
 LIVE:https://main--silver-fairy-d11d58.netlify.app/
 
 
