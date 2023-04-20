@@ -35,6 +35,11 @@ Typescript.<br>
 #### In progress:
 Currently working on a website for a local coffeehouse.
 
+#### 👑CRWN-CLOTHING
+Sample of SPA with react for Cloth Company Shop using firebase as database.<br>
+LIVE:https://main--silver-fairy-d11d58.netlify.app/
+
+
 #### 🧠SMART BRAIN:
 Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
 the application is written in react with class component.
