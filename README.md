@@ -43,6 +43,7 @@ LIVE:https://main--silver-fairy-d11d58.netlify.app/
 #### 🧠SMART BRAIN:
 Full stack app for detecting faces on the pictrue. With working Registration form and sign in.
 the application is written in react with class component.
+Registration and SignIn may be down sometimes
 <br>LIVE:https://smartbrain-lj53.onrender.com<br>
 
 
