@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 • Bootstrap<br>
 • JavaScript<br>
 • React.js<br>
+• Redux<br>
 • Express.js<br>
 • GIT<br>
 • NPM<br>
 • MySQL<br>
+• FireStore<br>
 ### 🌱 I’m currently learning
 Typescript.<br>
 ### 🖥 Projects 
