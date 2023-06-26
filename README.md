@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 • JavaScript<br>
 • React.js<br>
 • Redux<br>
+• TypeScript<br>
 • Express.js<br>
 • GIT<br>
 • NPM<br>
 • MySQL<br>
 • FireStore<br>
-### 🌱 I’m currently learning
-Typescript.<br>
+
 ### 🖥 Projects 
 
 #### In progress:
