@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 ### ✨ Skills <br>
 • html <br>
-• css, sass<br>
+• css, sass, tailwindCss<br>
 • Bootstrap<br>
 • JavaScript<br>
-• React.js<br>
-• Redux<br>
+• React.js / TanstackQuery / <br>
+• Zustand<br>
 • TypeScript<br>
+• Jest<br>
 • Express.js<br>
 • GIT<br>
 • NPM<br>
@@ -34,8 +35,10 @@ Here are some ideas to get you started:
 
 ### 🖥 Projects 
 
-#### In progress:
-Currently working on a website for a local coffeehouse.
+#### CAR-Dealer
+Simple car dealer page.
+LIVE:https://marni1.github.io/ProjektPodyplomwyJS/
+
 
 #### 👑CRWN-CLOTHING
 Sample of SPA with react for Cloth Company Shop using firebase as database.Still in progress<br>
