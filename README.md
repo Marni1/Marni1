@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 • Bootstrap<br>
 • JavaScript<br>
 • React.js / TanstackQuery / React-Hook-Form <br>
+• Next.js <br>
 • Zustand<br>
 • TypeScript<br>
 • Jest<br>
