@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 • css, sass, tailwindCss<br>
 • Bootstrap<br>
 • JavaScript<br>
-• React.js / TanstackQuery / <br>
+• React.js / TanstackQuery / React-Hook-Form <br>
 • Zustand<br>
 • TypeScript<br>
 • Jest<br>
